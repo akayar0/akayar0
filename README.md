@@ -8,7 +8,7 @@
   <h3>A passionate Full-Stack Developer from Türkiye 🚀</h3>
   
   <p align="center">
-    <a href="https://linkedin.com/in/ahmet-kayar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-[%230077B5]?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/ahmet-kayar-77a308290/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-[%230077B5]?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://twitter.com/akayar_0" target="_blank"><img src="https://img.shields.io/badge/Twitter-[%231DA1F2]?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
     <a href="https://instagram.com/akayarr_" target="_blank"><img src="https://img.shields.io/badge/Instagram-[%23E4405F]?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   </p>
